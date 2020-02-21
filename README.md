@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science Specialisation from John Hokins University
+Data Science Specialisation from John Hopkins University
